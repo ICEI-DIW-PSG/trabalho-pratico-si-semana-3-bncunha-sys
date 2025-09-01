@@ -10,17 +10,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Bruno Nascimento Cunha 
+- Matricula: 1633204
+- Proposta de projeto escolhida: Aproveitar a oportunidade do conhecimento adiquirido para contribuir com o centro de treinamento que eu sou pertecente.
 - Breve descrição sobre seu projeto:
-
+Página de Jiu-Jitsu
+Este projeto é a implementação de um wireframe de uma **página simples** de apresentação de um Centro de Treinamento de Jiu-Jitsu.  
+Ele foi desenvolvido a partir da simplicidade do projeto de portfólio, mantendo o HTML e CSS limpos e organizados.
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
